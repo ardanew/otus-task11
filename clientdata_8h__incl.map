@@ -1,0 +1,9 @@
+<map id="src/clientdata.h" name="src/clientdata.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,217,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,111,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,34,90,72,87,68,143,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,79,189,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,31,165,63,159,63,159,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="212,79,280,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,30,222,67,219,71,175,34"/>
+</map>

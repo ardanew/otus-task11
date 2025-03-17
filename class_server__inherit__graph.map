@@ -1,0 +1,5 @@
+<map id="Server" name="Server">
+<area shape="rect" id="Node000001" title="class to manage clients connections through TCP" alt="" coords="5,181,195,735"/>
+<area shape="rect" id="Node000002" href="$struct_i_sender.html" title="interface to class that do communications with clients" alt="" coords="52,5,149,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,148,103,181,98,181,98,148"/>
+</map>

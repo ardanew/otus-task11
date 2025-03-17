@@ -1,0 +1,7 @@
+<map id="ClientData" name="ClientData">
+<area shape="rect" id="Node000001" title="client&#45;related data to use in map &lt;client_id &#45;&gt; clientData&gt;" alt="" coords="90,150,161,216"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,136,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,85,104,125,108,133,103,135,100,127,84,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="160,13,203,79"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,80,154,127,151,135,146,133,150,125,168,78"/>
+</map>
